@@ -2,5 +2,5 @@
 simon
 peter
 paul
-chi
 ope
+Chad
