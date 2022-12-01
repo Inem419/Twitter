@@ -6,4 +6,4 @@ deployment5 master
 deployment4
 deploy to staging environment
 echo good job
-Testd and accepted
+Tested and accepted
